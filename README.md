@@ -14,7 +14,6 @@ This project builds a Convolutional Neural Network (CNN) to classify American Si
 
 ## Results
 - Achieved ~79% accuracy
-- Improved from ~3% using Dense model to CNN
 
 ## Technologies
 - Python
