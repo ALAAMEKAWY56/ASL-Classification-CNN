@@ -13,7 +13,7 @@ This project builds a Convolutional Neural Network (CNN) to classify American Si
 - Softmax output
 
 ## Results
-- Achieved ~79% accuracy
+- Achieved ~98% accuracy
 
 ## Technologies
 - Python
